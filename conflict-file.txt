@@ -1,0 +1,1 @@
+"This is the local change to conflict_file.txt"
